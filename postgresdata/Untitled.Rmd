@@ -1,0 +1,11 @@
+```{r setup, include=FALSE}
+install.packages("rjson")
+```
+
+
+```{r cars}
+library("rjson")
+json_file <- ("~/Desktop/yelp data/yelp_dataset/review.json")
+
+text <- readLines(text <- readLines(filePath))
+```
